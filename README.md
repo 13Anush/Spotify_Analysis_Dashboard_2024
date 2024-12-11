@@ -187,28 +187,6 @@ plt.tight_layout()
 plt.show()
 
 ```
-    
-
-
- # Hi, I'm Anush! 👋
-
- 
-
-## 🚀 About Me
-I am a pre-final year student at JECRC University with a strong passion for Machine Learning, Data Science, and Data Analytics. My foundation in Data Structures and Algorithms (DSA) in C++ has sharpened my problem-solving skills and further fueled my interest in the evolving tech landscape.
-
- 
-## 🛠 Skills
-Programming Languages: Python, R, C++, SQL
-- Tools: VSCode, Github Codespaces, PyCharm, Jupyter Notebook, PowerBI, Github, MySQL, Machine Learning, Figma
-- Frameworks: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow
-- UI and UX 
-
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anush-sharma13//)
 
 
 
